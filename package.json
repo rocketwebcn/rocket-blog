@@ -1,0 +1,18 @@
+{
+  "name": "rocket-blog",
+  "version": "1.0.0",
+  "description": "基于nodejs和react加mongodb的博客系统",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rocketwebcn/rocket-blog.git"
+  },
+  "keywords": [
+    "rocket-blog"
+  ],
+  "author": "韩广金",
+  "license": "ISC"
+}
